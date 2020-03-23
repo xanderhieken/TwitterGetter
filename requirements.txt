@@ -1,0 +1,8 @@
+﻿tweepy == 3.8.0
+dataset == 1.2.2
+oauth2 == 1.9.0.post1
+json == 2.0.9
+pandas == 1.0.1
+time
+urllib
+sqlite3
