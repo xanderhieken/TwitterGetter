@@ -12,7 +12,7 @@
 
 ## Prerequisites
 
-Before you can request data from the Twitter API, you are going to need to create a Twitter account and generate your own keys on [apps.twitter.com](apps.twitter.com)
+Before you can request data from the Twitter API, you are going to need to create a Twitter account and generate your own keys on [the developer page](https://developer.twitter.com/en/account/get-started).
 
 ```
 API_KEY = 'INSERT YOUR KEY HERE' 
